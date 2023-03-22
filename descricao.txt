@@ -1,0 +1,5 @@
+O projeto é baseado em uma lista de objetos para se levar em viagem.
+O objetovo do projeto é colocar o nome do objeto e sua quantidade, ele irá adicionar em uma lista em ordem alfabética assim vc nao terá uma lista com suas coisas e não esquecer de levar nada.
+projeto realizado com a linguem principal  js ( JavaScript)
+Html e Css feito por...
+projeto realizado junto com o curso .... Alura
